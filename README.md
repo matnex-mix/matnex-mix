@@ -88,5 +88,15 @@ Website: https://experienceerrors.com</p>
 <h3 align="center">Worked For</h3>
 
 <h3 align="center">Contact</h3>
+<p align="center">
+
+<a href="https://facebook.com/abdulmateen.jolaosho/">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/matnex-mix/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://medium.com/@matnex.mix">![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)</a>
+<a href="https://t.me/matnex_mix">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://twitter.com/techlavang">![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://wa.me/+2349130714128">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+
+</p>
 
 <p align="center">&copy; Jolaosho Abdulmateen 2021.</p>
