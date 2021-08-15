@@ -94,7 +94,7 @@ Website: https://experienceerrors.com</p>
 <img alt="Altechtic Solutions" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/altechtic.webp" />
 <img alt="Africatedpreneurs" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/favicon.png" />
 <img alt="TechieHealth Pharmacy" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/logo.png" />
-<img alt="Techlava" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/techlava-full.jpg" />
+<img alt="Techlava" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/techlava-full.png" />
 <img alt="Voxforem Technologies" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/voxforem.png" />
 <img alt="Petabyte Technologies" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/petalogo.jpg" />
  
