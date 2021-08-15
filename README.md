@@ -86,6 +86,19 @@ Website: https://experienceerrors.com</p>
 </p>
 
 <h3 align="center">Worked For</h3>
+<p align="center">
+
+<img alt="Numbersng" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/Logo.jpg" />
+<img alt="PushEat" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/PiushEat@300x.png" />
+<img alt="AhmedTech" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/ahmedtech.jpg" />
+<img alt="Altechtic Solutions" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/altechtic.webp" />
+<img alt="Africatedpreneurs" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/favicon.png" />
+<img alt="TechieHealth Pharmacy" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/logo.png" />
+<img alt="Techlava" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/techlava-full.jpg" />
+<img alt="Voxforem Technologies" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/voxforem.png" />
+<img alt="Petabyte Technologies" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/petalogo.jpg" />
+ 
+</p>
 
 <h3 align="center">Contact</h3>
 <p align="center">
