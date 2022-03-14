@@ -98,7 +98,10 @@ Website: https://experienceerrors.com<br/>
 <img alt="Techlava" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/techlava-full.png" />
 <img alt="Voxforem Technologies" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/voxforem.png" />
 <img alt="Petabyte Technologies" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/petalogo.jpg" />
- 
+<img alt="Talkmia Logo" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/talkmia_logo.png" />
+<img alt="Lingka Nigeria" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/LINGKA%20LOGO%201.png" />
+<img alt="Rentout" height="60" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/rentout_fulllogo.png" />
+
 </p>
 
 <h3 align="center">Contact</h3>
