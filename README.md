@@ -1,6 +1,6 @@
 <p align="center"><kbd><img height="150" width="150" src="https://raw.githubusercontent.com/matnex-mix/matnex-mix/main/placeholder.jpg" style="border-radius: 50%; overflow: hidden; border: 1px solid black;" /></kbd></p>
 <h3 align="center">Jolaosho Abdulmateen (Matnex Mix)</h3>
-<p align="center">8+ years. | Tech Consultant | Engineer | Enterprise Developer | Critical Thinker<br/>
+<p align="center">5+ years. | Tech Consultant | Engineer | Enterprise Developer | Critical Thinker<br/>
 Website: https://experienceerrors.com<br/>
  <a href="https://github.com/matnex-mix/matnex-mix/blob/main/impressive-things.md">Things I did that impressed me</a></p>
 
