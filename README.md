@@ -6,7 +6,7 @@
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=matnex-mix")
 
 </div>
-<p align="center">5+ years. | Engineer | Critical Thinker<br/>
+<p align="center">7+ years. | Engineer | Critical Thinker<br/>
 Website: https://experienceerrors.com<br/>
  <a href="https://github.com/matnex-mix/matnex-mix/blob/main/impressive-things.md">Things I did that impressed me</a></p>
 
